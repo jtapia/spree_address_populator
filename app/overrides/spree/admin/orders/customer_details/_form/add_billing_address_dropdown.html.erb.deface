@@ -1,0 +1,8 @@
+<!-- insert_after '[data-hook="bill_address_wrapper"] legend'
+sequence 1
+-->
+
+<div class="field billing-row billing_address_selector">
+  <label for="billing_address_select"><%= Spree.t(:previous_billing_address) %></label>
+  <input type="hidden" class="select2 fullwidth" id="billing_address_select" />
+</div>

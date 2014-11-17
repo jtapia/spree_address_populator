@@ -1,0 +1,8 @@
+<!-- insert_after '[data-hook="ship_address_wrapper"] legend'
+sequence 1
+-->
+
+<div class="field shipping-row shipping_address_selector">
+  <label for="shipping_address_select"><%= Spree.t(:previous_shipping_address) %></label>
+  <input type="hidden" class="select2 fullwidth" id="shipping_address_select" />
+</div>
