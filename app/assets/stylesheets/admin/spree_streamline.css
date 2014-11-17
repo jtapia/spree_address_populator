@@ -1,33 +1,3 @@
 /*
  *= require admin/spree_backend
 */
-
-#stock-removals {
-  #no_charge_payment {
-    #no_charge_note_field {
-      label {
-        display: block;
-      }
-
-      input[type='text'] {
-        width: 100%;
-      }
-    }
-  }
-
-  #stock_movement_quantity_field {
-    input[type='text'] {
-      width: 57px;
-    }
-  }
-
-  #no_charge_note_field {
-    input[type='text'] {
-      display: block;
-    }
-  }
-}
-
-#admin_stock_removal {
-  margin-right: 5px;
-}

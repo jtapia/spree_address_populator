@@ -2,12 +2,3 @@ en:
   spree:
     previous_billing_address: Previous Billing Addresses
     previous_shipping_address: Previous Shipping Addresses
-
-    attributes:
-      spree/variant:
-        one: Variant
-        other: Variants
-
-    errors:
-      missing_user: You need to select a valid user for the order
-      missing_items: You need to add variants for the order
