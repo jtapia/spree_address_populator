@@ -1,3 +1,7 @@
 /*
  *= require admin/spree_backend
 */
+
+#s2id_billing_address_select, #s2id_shipping_address_select {
+  max-width: 340px;
+}
