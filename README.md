@@ -14,7 +14,7 @@ Installation
 
 1. Add `gem 'spree_address_populator', github: 'jtapia/spree_address_populator'` to Gemfile
 2. Run `bundle`
-3. Add `admin/spree_address_populator` to assets
+3. Add `spree/backend/spree_address_populator` to assets
 
 Testing
 =======
